@@ -19,3 +19,4 @@ _Status: IN DEVELOPMENT..._
 In order to create database use a migration command: _php bin/console make:migration_
 
 and run scripts:  
+
